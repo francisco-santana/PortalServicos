@@ -5,7 +5,7 @@
 1.  **[Introdução](#introdução)**
 2.  **[Processo inicial por tipo de prestador](#processo-inicial-por-tipo-de-prestador)**
 3.  **[Especialidade](#especialidade)**
-4.  **[Serviços contratados](#servicos-contratados)**
+4.  **[Serviços contratados](#serviços-contratados)**
 5.  **[Sincronizações](#sincronizações)**
 ## Introdução
 
