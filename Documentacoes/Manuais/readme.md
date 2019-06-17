@@ -3,3 +3,4 @@
 # Manuais - Portal de serviços
 
 * **[Inclusão de relatórios](InclusaoDeRelatorios/readme.md)**
+* **[Parametrizações](Parametrizacoes/readme.md)**
