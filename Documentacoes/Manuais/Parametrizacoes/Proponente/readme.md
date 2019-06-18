@@ -6,7 +6,9 @@
 2.  **[Processo inicial por tipo de prestador](#processo-inicial-por-tipo-de-prestador)**
 3.  **[Especialidade](#especialidade)**
 4.  **[Serviços contratados](#serviços-contratados)**
-5.  **[Sincronizações](#sincronizações)**
+5.  **[Tipos de documentos](#tipos-de-documentos)**
+6.  **[Sincronizações](#sincronizações)**
+
 ## Introdução
 
 Parametrizações necessárias no saúde para o funcionarmento do proponente no portal.
@@ -40,6 +42,14 @@ Define as especialidades que serão apresentadas para seleção pelo proponente.
 Define os serviços que serão apresentados para a seleção pelo proponente.
 
 ![003](src/images/003.png)
+
+## Tipos de documentos
+
+> Prestadores > Tabelas > Tipo de Prestador > Documentos exigidos
+
+Define os tipos de documentos que serão apresentados para a seleção pelo proponente no envio de documento.
+
+![004](src/images/004.png)
 
 ## Sincronizações
 
