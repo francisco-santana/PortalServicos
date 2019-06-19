@@ -2,5 +2,7 @@
 
 # Parametrizações
 
-1.  **[Proponente](Proponente/readme.md)**
-2.  **[Servidor SMTP](Smtp/readme.md)**
+* **[Prévia de coparticipação](PreviaDeCoparticipacao/readme.md)**
+* **[Proponente](Proponente/readme.md)**
+* **[Reembolso online](ReembolsoOnline/readme.md)**
+* **[Servidor SMTP](Smtp/readme.md)**
