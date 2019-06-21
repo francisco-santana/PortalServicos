@@ -1,6 +1,6 @@
 <img src="../../src/images/benner_rgb.png" align="right"/>
 
-# Customização do Portal De Serviços
+# Customização Portal de Serviços
 
 1.  **[Introdução](#introdução)**
 2.  **[Customização - Geral](#customização-geral)**

@@ -2,6 +2,7 @@
 
 # Parametrizações
 
+* **[Customização Portal de Serviços](CustomizacaoPortalDeServicos/readme.md)**
 * **[Prévia de coparticipação](PreviaDeCoparticipacao/readme.md)**
 * **[Proponente](Proponente/readme.md)**
 * **[Reembolso online](ReembolsoOnline/readme.md)**
