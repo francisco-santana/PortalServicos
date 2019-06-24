@@ -2,6 +2,7 @@
 
 # Parametrizações
 
+* **[Alterar Título de Submenu](AlterarTituloSubMenu/readme.md)**
 * **[Customização Portal de Serviços](CustomizacaoPortalDeServicos/readme.md)**
 * **[Prévia de coparticipação](PreviaDeCoparticipacao/readme.md)**
 * **[Proponente](Proponente/readme.md)**
