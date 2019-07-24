@@ -5,7 +5,7 @@
 1.  **[Introdução](#introdução)**
 2.  **[Backup](#backup)**
 3.  **[Roteiro de atualização](#roteiro-de-atualização)**
-4.  **[Executando/Aplicando scripts](#executando/aplicando-scripts)**
+4.  **[Executando/Aplicando scripts](#executandoaplicando-scripts)**
 5.  **[Atualização do Portal Serviços](#atualização-do-portal-serviços)**
 6.  **[Atualização do WebApp](#atualização-do-webapp)**
 7.  **[Atualização do Schema](#atualização-do-schema)**
@@ -33,7 +33,7 @@ Para facilitar o processo de atualização do portal de serviços legado é nece
     > C:\Arquivos de Programas (x86)\Benner\WES\CLIENTE\Schemas_PortalServicosCliente)
 
       *(É possivel tambem, localizar através do arquivo WebApp/web.config, dentro da tag <appsettings> o path para a pasta onde se localizam os Schemas)*
-      
+
       `< add key="SCHEMA" value="C:\Program Files (x86)\Benner\WES\CAIXAHOM\Schemas_PortalServicosCaixaHom" />`
 
 ## Backup
