@@ -77,13 +77,17 @@ Após o relatório ser salvo, iremos agora adicionar uma view para este relatór
 
 > Configurações > Artefatos > Visões
 
-Adicione uma visão do tipo **Visão de grid**
+Adicione uma visão do tipo **Visão de grid** e uma **Visão de Form**
 
 Em Definição de entidade, selecione a tabela virtual que foi criada anteriormente.
 
 Em Camada, selecione **Cliente** _(veja o exemplo abaixo)_
 
 ![009](src/images/009.png)
+
+> **Não esqueça de add a visão do tipo FORM**
+
+![024](src/images/024.png)
 
 ### Criando a página para o relatório
 O próximo passo é adicionar uma página para o relatório, para isso vá até
