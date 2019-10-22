@@ -33,7 +33,7 @@ Inclua uma nova tabela e insira os campos desejados, neste exemplos adicionaremo
 
  ![002](src/images/002.png)
 
-A inserção de parâmetros no relatório será feita através da tabela virtual criada anteriormente.
+A inserção de parâmetros para a geração do relatório será feita através da tabela virtual criada anteriormente, _caso não seja necessário parâmetros para a gerar o relatório, criar somente uma visão de grid e no passo 4, selecionar *SEM ENTRADA DE DADOS*_.
 
 ## Criando o relatório stimulsoft
 Nosso próximo passo é criar o relatório stimulsoft e vinculá-lo a tabela virtual, e para isso é necessário acessar o portal com um usuário que possua papel **_Desenvolvedor_**. 
