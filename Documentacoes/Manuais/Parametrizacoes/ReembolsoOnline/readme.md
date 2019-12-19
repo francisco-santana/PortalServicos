@@ -16,7 +16,7 @@ Para que o reembolso online funcione no **Portal** é necessário qua a tarefa *
 
 > Processamento de contas > Tabelas > Tipos de reembolso
 
-Ao iniciar a inclus"ao de um novo tipo de reembolso, os seguintes campos serão apresentados para a parametrização:
+Ao iniciar a inclusão de um novo tipo de reembolso, os seguintes campos serão apresentados para a parametrização:
 
 * **Descrição:** nome do reembolso que será apresentado no portal;
 * **Tipos:**
