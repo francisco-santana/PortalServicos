@@ -8,4 +8,4 @@
 * **[Proponente](Proponente/readme.md)**
 * **[Reembolso online](ReembolsoOnline/readme.md)**
 * **[Servidor SMTP](Smtp/readme.md)**
-* **[Solicitações Diversas] (SolicitacoesDiversas/readme.md)**
+* **[Solicitações Diversas](SolicitacoesDiversas/readme.md)**
