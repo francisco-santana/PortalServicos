@@ -19,7 +19,7 @@ Neste manual será abordado a configuração e utilização da funcionalidade *'
 No botão *'Áreas de Origem'* é possível cadastrar as categorias dos avisos. Os campos para preenchimento são:
 
 * **Descrição:** Descrição da Categoria.
-* **Ícone:** Classe de estilo do ícone do Metronic a ser exibido. <a href="http://keenthemes.com/preview/metronic/theme/admin_1/ui_icons.html" target="_blank">Clique aqui</a> para consultar os ícones disponíveis.
+* **Ícone:** Classe de estilo do ícone do Metronic a ser exibido.  [Clique aqui](http://keenthemes.com/preview/metronic/theme/admin_1/ui_icons.html) para consultar os ícones disponíveis.
 
 ![002](src/images/002.png)
 
