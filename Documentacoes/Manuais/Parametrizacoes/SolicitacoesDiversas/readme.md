@@ -61,7 +61,7 @@ Como exemplo no ambiente de homologação da Qualidade, será utilizado o servi�
 
 ## Prazo para resolução
 
-Para alterar o prazo de resolução do atendimento, é necessário habilitar "Processo de Ouvidoria - SIM".
+Para alterar o prazo de resolução da solicitação, é necessário habilitar "Processo de Ouvidoria - SIM".
 
  ![015](src/images/015.png)
 
