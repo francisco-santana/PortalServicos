@@ -4,6 +4,9 @@
 
 1.  **[Introdução](#introdução)**
 2.  **[Sistema AG](#sistema-ag)**
+
+    2.1 **[Prazo para resolução](#prazo-para-resolução)**
+
 3.  **[Sistema Portal](#sistema-portal)**
 4.  **[Atendimento das Solicitações](#atendimento-das-solicitações)**
 
@@ -55,6 +58,18 @@ Como exemplo no ambiente de homologação da Qualidade, será utilizado o servi�
 * **Contratos Restritos:** beneficiários de contratos parametrizados neste campo não terão acesso a esta classe de serviço.
 
 * **Tipo de dependentes:** restringe a inclusão de dependentes, podendo adicionar apenas dependentes dos tipos informados nesta carga.
+
+## Prazo para resolução
+
+Para alterar o prazo de resolução do atendimento, é necessário habilitar "Processo de Ouvidoria - SIM".
+
+ ![015](src/images/015.png)
+
+ No campo *'Prazo Inicial Ouvidoria'* e *'Prazo Final Ouvidoria'* , digite o prazo **em dias**. Após isso, salve a Solicitação.
+ Volte ao *Processo de Ouvidoria* , marque para *'Não'* e salve novamente.
+
+Essa parametrização é necessária para que o Portal receba corretamente o valor do prazo de resolução da solicitação.
+Vale lembrar que se manter parametrizado *'Processo de Ouvidoria - Sim'*, a solicitação deixará de ser uma *'Solicitação Diversa'* e será exibida apenas na funcionalidade de **Reclamação/Sujestão** no Portal.
 
 
 ## Sistema Portal
