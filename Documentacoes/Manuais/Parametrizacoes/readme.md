@@ -5,6 +5,7 @@
 * **[Alterar Título de Submenu](AlterarTituloSubMenu/readme.md)**
 * **[Cadastro de Avisos](CadastroAvisos/readme.md)**
 * **[Cancelamento de Beneficiários AG](CancelamentoBeneficiariosAG/readme.md)**
+* **[Cancelamento de Beneficiários MG](CancelamentoBeneficiariosMG/readme.md)**
 * **[Customização Portal de Serviços](CustomizacaoPortalDeServicos/readme.md)**
 * **[Prévia de coparticipação](PreviaDeCoparticipacao/readme.md)**
 * **[Proponente](Proponente/readme.md)**
