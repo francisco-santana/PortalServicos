@@ -1,4 +1,4 @@
-<img align="right" src="src/images/benner_rgb.png" />
+<img align="right" src="../src/images/benner_rgb.png" />
 
 # Sincronizações - Portal de serviços
 
