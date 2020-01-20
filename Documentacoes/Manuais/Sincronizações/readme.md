@@ -1,4 +1,4 @@
-<img src="../../src/images/benner_rgb.png" align="right"/>
+<img align="right" src="../src/images/benner_rgb.png" />
 
 # Sincronizações Portal
 
