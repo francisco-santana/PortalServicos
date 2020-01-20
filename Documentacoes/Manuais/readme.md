@@ -5,3 +5,4 @@
 * **[Inclusão de relatórios](InclusaoDeRelatorios/readme.md)**
 * **[Instalações e Atualizações](InstalacoesAtualizacoes/readme.md)**
 * **[Parametrizações](Parametrizacoes/readme.md)**
+* **[Sincronizações](Sincronizações/readme.md)**
