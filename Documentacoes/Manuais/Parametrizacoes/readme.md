@@ -10,5 +10,6 @@
 * **[Prévia de coparticipação](PreviaDeCoparticipacao/readme.md)**
 * **[Proponente](Proponente/readme.md)**
 * **[Reembolso online](ReembolsoOnline/readme.md)**
+* **[Restrição de Funcionalidade](RestricaoDeFuncionalidade/readme.md)**
 * **[Servidor SMTP](Smtp/readme.md)**
 * **[Solicitações Diversas](SolicitacoesDiversas/readme.md)**
