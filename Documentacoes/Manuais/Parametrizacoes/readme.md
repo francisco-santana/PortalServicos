@@ -8,8 +8,10 @@
 * **[Cancelamento de Beneficiários MG](CancelamentoBeneficiariosMG/readme.md)**
 * **[Customização Portal de Serviços](CustomizacaoPortalDeServicos/readme.md)**
 * **[Extrato de Coparticipação](ExtratoDeCoparticipacao/readme.md)**
+* **[Pagamento Pendente de NF](PagamentoPendenteNF/readme.md)**
 * **[Prévia de coparticipação](PreviaDeCoparticipacao/readme.md)**
 * **[Proponente](Proponente/readme.md)**
+* **[Protocolo Pendente de NF](ProtocoloPendenteNF/readme.md)**
 * **[Reembolso On-line](ReembolsoOnline/readme.md)**
 * **[Restrição de Funcionalidade](RestricaoDeFuncionalidade/readme.md)**
 * **[Servidor SMTP](Smtp/readme.md)**
