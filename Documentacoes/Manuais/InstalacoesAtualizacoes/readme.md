@@ -3,3 +3,4 @@
 # Instalações e Atualizações
 
 * **[Atualizar Portal de Servicos Legado / AG](PortalServicosLegado/readme.md)**
+* **[Portal Antigo - Starter Pack](PortalAntigoStarterPack/readme.md)**
