@@ -6,6 +6,7 @@
 2.  **[Configuração por contrato](#configuração-por-contrato)**
 3.  **[Ver mapa](#ver-mapa)**
 4.  **[Campos parametrizados](#campos-parametrizados)**
+4.  **[Valores Padrão](#valores-padrão)**
 
 
 ## Introdução
@@ -37,3 +38,11 @@ Para realizar a parametrização da prévia de coparticipação é necessário q
 ![003](src/images/003.png)
 
 *Ao clicar em novo é apresentado ao gestor os campos que podem ser parametrizados, o label (dica dentro de campo), visibilidade do campo e obrigatoriedade.*
+
+## Valores Padrão
+
+> AG > Adm > Parâmetros Gerais > WEB > Portal Web > Prévia de coparticipação
+
+**Configuração:** Será apresentado o botão editar onde o mesmo habilitará o usuário a alterar os valores padrão para algumas das informações necessárias para se realizar a consulta de prévia de coparticipação caso os mesmos não sejam informados pelo beneficiário.
+
+![004](src/images/004.png)
