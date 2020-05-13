@@ -6,8 +6,8 @@
 2.  **[Configuração por contrato](#configuração-por-contrato)**
 3.  **[Ver mapa](#ver-mapa)**
 4.  **[Campos parametrizados](#campos-parametrizados)**
-4.  **[Valores Padrão](#valores-padrão)**
-
+5.  **[Valores Padrão](#valores-padrão)**
+6.  **[Pré-requisitos](#pré-requisitos)**
 
 ## Introdução
 
@@ -46,3 +46,42 @@ Para realizar a parametrização da prévia de coparticipação é necessário q
 **Configuração:** Será apresentado o botão editar onde o mesmo habilitará o usuário a alterar os valores padrão para algumas das informações necessárias para se realizar a consulta de prévia de coparticipação caso os mesmos não sejam informados pelo beneficiário.
 
 ![004](src/images/004.png)
+
+## Pré-requisitos
+
+Pré-requisitos para que um prestador seja listado na consulta de prévia de coparticipação
+
+> Evento utilizado como exemplo: 1.01.01.012 - Consulta em consultório (no horário normal ou preestabelecido)
+
+#### 1 - Cadastrar área do livro
+
+> Prestadores > Tabelas > Área do Livro > Dimensionamento de Vagas
+
+As áreas devem ter seus dimensionamentos de vagas cadastrados, fazendo assim um vínculo entre área e especialidade.
+
+![005](src/images/005.png)
+
+#### 2 - Cadastrar prestador ao livro de credenciados
+
+> Prestadores > Cadastro de prestadores > Selecionar Prestador > Informações Cadastrais > Livro de Credenciados
+
+Ao cadastrar o prestador ao livro de credenciados é realizado o vínculo entre área x especialidade x endereço. 
+
+*O Prestador em questão deve estar credenciado e o endereço deve ser do tipo atendimento.*
+
+![006](src/images/006.png)
+
+#### 3 - Especialidade x Evento
+
+> Prestador > Tabelas > Especialidades > Selecionar Especialidade > Eventos a Solicitar
+
+Para que o prestador em questão seja exibido ao consultar o evento 1.01.01.012, ao menos uma de suas especialidades deve ter o evento 1.01.01.012 vinculado à carga 'Eventos a Solicitar'.
+
+![007](src/images/007.png)
+
+Pode ser realizado o caminho inverso, realizando o vínculo das especialidades solicitantes ao evento.
+
+> Processamento de Contas > Tabelas > TGE – Tabela Geral de Eventos > Selecionar Tabela > Selecionar Evento > Especialidades Solicitantes
+
+![008](src/images/008.png)
+
