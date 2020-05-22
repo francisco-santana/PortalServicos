@@ -156,3 +156,6 @@ Relatório sendo emitido
 ![022](src/images/022.png)
 
 ![023](src/images/023.png)
+
+**Lembre-se de criar uma tarefa para seu novo relatório e atribuí-la ao papel de usuário que deverá 
+ter acesso a este novo relatório. Acesse o manual de Autorização para maiores detalhes.**
