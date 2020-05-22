@@ -7,7 +7,8 @@
 3.  **[Especialidade](#especialidade)**
 4.  **[Serviços contratados](#serviços-contratados)**
 5.  **[Tipos de documentos](#tipos-de-documentos)**
-6.  **[Sincronizações](#sincronizações)**
+6.  **[Horário Geral](#horário-geral)**
+7.  **[Sincronizações](#sincronizações)**
 
 ## Introdução
 
@@ -31,7 +32,7 @@ Para realizar a parametrização do proponente é necessário que previamente ex
 
 > Prestadores > Tabelas > Especialidade
 
-Define as especialidades que serão apresentadas para seleção pelo proponente.
+Define as especialidades que serão apresentadas para seleção pelo proponente. Atenção para as especialidades escolhidas pois elas devem ter o campo "Área livro da proposta creden. Portal" preenchido.
 
 ![002](src/images/002.png)
 
@@ -50,6 +51,18 @@ Define os serviços que serão apresentados para a seleção pelo proponente.
 Define os tipos de documentos que serão apresentados para a seleção pelo proponente no envio de documento.
 
 ![004](src/images/004.png)
+
+## Horário Geral
+
+> Preferências > Registro Proponente
+
+Se habilitada a opção "Utiliza horário geral", poderá ser cadastrado horário geral.
+
+![005](src/images/005.png)
+
+O prestador só precisa se identificar como associação ou cooperativa.
+
+![006](src/images/006.png)
 
 ## Sincronizações
 
