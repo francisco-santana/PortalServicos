@@ -158,4 +158,4 @@ Relatório sendo emitido
 ![023](src/images/023.png)
 
 **Lembre-se de criar uma tarefa para seu novo relatório e atribuí-la ao papel de usuário que deverá 
-ter acesso a este novo relatório. Acesse o manual de [Autorização](https://github.com/francisco-santana/PortalServicos/tree/master/Documentacoes/Manuais/Autoriza%C3%A7%C3%A3o "Autorização baseada em papéis"). para maiores detalhes.**
+ter acesso a este novo relatório. Acesse o manual de [Autorização](https://github.com/francisco-santana/PortalServicos/tree/master/Documentacoes/Manuais/Autoriza%C3%A7%C3%A3o "Autorização baseada em papéis") para maiores detalhes.**

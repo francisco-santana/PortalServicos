@@ -6,13 +6,13 @@
 2. **[Definição de Papéis](#definição-de-papéis)**
 	* **[Papéis](#papéis)**
 	* **[Tarefas](#tarefas)**
-	* **[Operações Páginas e Relatórios](#operações-páginas-e-relatórios])**
+	* **[Operações, Páginas e Relatórios](#operações-páginas-e-relatórios)**
 3. **[Configuração de Permissões](#configuração-de-permissões)**
     * **[Usuários e Grupo de Usuários](#usuários-e-grupo-de-usuários)**
     * **[Atribuições de papéis](#atribuições-de-papéis)**
 
 ## Introdução
-Neste manual serão abordados de forma simples os conceitos básicos para pleno entendimento deste mecanismos no WES.
+Neste manual serão abordados de forma simples os conceitos básicos para pleno entendimento destes mecanismos no Portal.
 
 A autorização baseada em papéis apóia-se em dois conceitos: Definição de Papéis e Configuração de Permissões.
 
@@ -37,10 +37,10 @@ Define os papéis que podem ser desempenhados em um sistema, e as respectivas de
 ### Tarefas
 
 * Um papel é definido pelas tarefas que lhe competem.
-* Uma tarefa é um agrupamento de [Operações, Páginas e Relatórios](#operações,-páginas-e-relatórios]. A tarefa centraliza quais operações são necessárias para concluir determinado procedimento, um procedimento qualquer que faça parte do dia-dia do usuário do portal.
-	* Por exemplo, um usuário com o papel "Prestador" pode executar as tarefas "digitação de guias" e "emissão de demonstrativo de pagamento".
+* Uma tarefa é um agrupamento de [Operações, Páginas e Relatórios](#operações-páginas-e-relatórios). A tarefa centraliza quais operações são necessárias para concluir determinado procedimento, um procedimento qualquer que faça parte do dia-dia do usuário do portal.
+	* Por exemplo, um usuário com o papel "Prestador" pode executar as tarefas "Área de dados do prestador" e "Consultar status do protocolo".
 * Uma tarefa pode ser executada por vários papéis.
-	* Por exemplo, a tarefa "transferência de arquivos" pode ser executada por pessoas que desempenhem os papéis de "Beneficiário Titular" ou mesmo "Prestador".
+	* Por exemplo, a tarefa "Transferência de arquivos" pode ser executada por pessoas que desempenhem os papéis de "Beneficiário" ou mesmo "Prestador".
 * Uma tarefa pode conter um conjunto de tarefas incluídas.
 	* O conceito de tarefa incluída forma uma estrutura de composição, onde as tarefas incluídas compõem o todo (a tarefa que as inclui).
 * Tarefas suportam customização por camadas.
@@ -53,7 +53,7 @@ Define os papéis que podem ser desempenhados em um sistema, e as respectivas de
 
 * Uma Tarefa é composta por um conjunto de operações, páginas e relatórios.
 * Operações são conceitos de sistema, representam ações sobre determinadas entidades.
-	* Por exemplo, a entidade TV_RELATORIO_DEMONSTRATIVO possui ações de visualizar, incluir e assim por diante.
+	* Por exemplo, a entidade TV_DEMONSTRATIVO_IRRF_PREST possui ações de ver, incluir e assim por diante.
 * Operações suportam customização por camadas.
 
 > **Configurações > Tarefas**
