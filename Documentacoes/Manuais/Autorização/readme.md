@@ -6,7 +6,7 @@
 2. **[Definição de Papéis](#definição-de-papéis)**
 	* **[Papéis](#papéis)**
 	* **[Tarefas](#tarefas)**
-	* **[Operações, Páginas e Relatórios](#operações,-páginas-e-relatórios]
+	* **[Operações Páginas e Relatórios](#operações-páginas-e-relatórios])**
 3. **[Configuração de Permissões](#configuração-de-permissões)**
     * **[Usuários e Grupo de Usuários](#usuários-e-grupo-de-usuários)**
     * **[Atribuições de papéis](#atribuições-de-papéis)**
