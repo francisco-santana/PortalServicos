@@ -32,7 +32,7 @@ Para realizar a parametrização do proponente é necessário que previamente ex
 
 > Prestadores > Tabelas > Especialidade
 
-Define as especialidades que serão apresentadas para seleção pelo proponente. Atenção para as especialidades escolhidas pois elas devem ter o campo "Área livro da proposta creden. Portal" preenchido.
+Define as especialidades que serão apresentadas para seleção pelo proponente. Atenção para as especialidades escolhidas, elas devem ter o campo "Área livro da proposta creden. Portal" preenchido para que o envio dos dados do livro/horário de atendimento seja feito corretamente.
 
 ![002](src/images/002.png)
 
@@ -56,7 +56,7 @@ Define os tipos de documentos que serão apresentados para a seleção pelo prop
 
 > Preferências > Registro Proponente
 
-Se habilitada a opção "Utiliza horário geral", poderá ser cadastrado horário geral.
+Se habilitada a opção "Utiliza horário geral", poderá ser cadastrado horário geral. 
 
 ![005](src/images/005.png)
 
