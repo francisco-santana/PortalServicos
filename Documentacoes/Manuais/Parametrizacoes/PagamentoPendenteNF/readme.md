@@ -104,3 +104,24 @@ Sincronização executada.
 ![016](src/images/016.png)
 
 ![017](src/images/017.png)
+
+Nota Cancelada.
+![018](src/images/018.png)
+
+![019](src/images/019.png)
+
+![020](src/images/020.png)
+
+Para nota cancelada, é necessário adicionar o anexo de cancelamento e informar os dados da nova nota.
+
+![021](src/images/021.png)
+
+Uma nova nota será criada no saúde.
+
+![022](src/images/022.png)
+
+A nota cancelada estará disponível na carga de "Notas fiscais canceladas".
+
+![023](src/images/023.png)
+
+Caso a nota cancelada seja indeferida, a nota que havia sido inserida é deletada, e a nota cancelada retorna a carga "Notas fiscais
