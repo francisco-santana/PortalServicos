@@ -3,6 +3,7 @@
 # Parametrizações
 
 * **[Alterar Título de Submenu](AlterarTituloSubMenu/readme.md)**
+* **[Anexo de PEG](AnexoDePEG/readme.md)**
 * **[Cadastro de Avisos](CadastroAvisos/readme.md)**
 * **[Cancelamento de Beneficiários AG](CancelamentoBeneficiariosAG/readme.md)**
 * **[Cancelamento de Beneficiários MG](CancelamentoBeneficiariosMG/readme.md)**
@@ -16,4 +17,5 @@
 * **[Reembolso On-line](ReembolsoOnline/readme.md)**
 * **[Restrição de Funcionalidade](RestricaoDeFuncionalidade/readme.md)**
 * **[Servidor SMTP](Smtp/readme.md)**
+* **[Solicitação 2ª via cartão](SolicitacaoSegundaViaCartao/readme.md)**
 * **[Solicitações Diversas](SolicitacoesDiversas/readme.md)**
