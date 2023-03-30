@@ -43,37 +43,56 @@ Para que o tipo de documento seja exibido para o prestador no portal, é necess�
 
 Para que o usuário tenha acesso ao anexo de peg, é necessário que a tarefa "Adicionar Anexo ao Peg" esteja vínculado ao papel.
 
-![004](src/images/004.png)
+![013](src/images/013.png)
 
 ## Anexo de peg - Digitação de Guias
 
+> Prestador > Digitação de Guias > Consultar Protocolos
+
 Após a digitação de guia, é possível incluir os anexos. Os anexos são enviados junto com o envio do peg.
 
-![005](src/images/005.png)
+![014](src/images/014.png)
 
-![006](src/images/006.png)
+Clicando no botão **+ Novo**, o sistema irá abrir a tela abaixo. Preencha os campos e clique no botão **Salvar**.
 
-![007](src/images/007.png)
+![015](src/images/015.png)
+
+Depois de adicionado, o documento aparecerá na listagem como demonstrado na imagem abaixo.
+
+![016](src/images/016.png)
 
 Também é possível incluir anexos em pegs que já foram enviados para a operadora.
 
-![008](src/images/008.png)
+![017](src/images/017.png)
 
 Para que os anexos sejam enviados é necessário clicar no botão "Enviar Documentos".
 
-![009](src/images/009.png)
+![018](src/images/018.png)
 
 ## Anexo de peg - Envio de arquivo XML
 
+> Prestador > Envio de arquivo XML > Consultar Arquivos
+
 Para que seja possível incluir anexo pelo envio de arquivo xml, é necessário que o registro possua número protocolo.
 
-![010](src/images/010.png)
+![019](src/images/019.png)
 
-![011](src/images/011.png)
+Após clicar no botão **Anexo de documentos**, como destacado na imagem acima, o sistema abrirá uma janela conforme demonstrado na figura abaixo. Para incluir um documento, basta clicar no botão **+ Novo**.
+
+![020](src/images/020.png)
+
+Clicando no botão **+ Novo**, aparecerá o formulário para preenchimento dos dados do anexo, como mostra a figura abaixo.
+Depois de preenchidos os campos, clique no botão **Salvar** ou no botão **+ Salvar/Novo** caso precise inserir mais documentos.
+
+![021](src/images/021.png)
+
+Depois de adicionar os documentos, clique no botão **Enviar Documentos**.
+
+![022](src/images/022.png)
 
 ## Anexos
 
-Os anexo podem ser encontrados em:
+Os anexos podem ser encontrados em:
 
 > Processamento de Contas > Pegs > Anexos
 

@@ -7,6 +7,7 @@
 3. **[Campos Disponíveis](#campos-disponíveis)**
 4. **[Incluindo campos na carteirinha](#incluindo-campos-na-carteirinha)**
 5. **[Upload de novo layout](#Upload-de-novo-layout)**
+5. **[Adicionando carterinhas específicas](#adicionando-carteirinhas-específicas)**
 
 ## Introdução
 
@@ -26,7 +27,7 @@ Os arquivos de layout da carteirinha se encontram no endereço acima. Por padrã
 
 * **@Campos Disponíveis:** A funcionalidade exibe todos os campos disponíveis a serem parametrizados no layout da carteirinha.
 
-![001](src/images/001.png)
+![007](src/images/007.png)
 
 ## Incluindo campos na carteirinha
 
@@ -43,8 +44,24 @@ Obs: Para o desenvolvimente deste manual será usado o Inkscape
 
 Para utilizar uma nova carteirinha no portal de serviços, é necessário realizar o upload do arquivo .svg através do papel de gestor.
 
-![003](src/images/003.png)
+![008](src/images/008.png)
 
-![004](src/images/004.png)
+![009](src/images/009.png)
 
-![005](src/images/005.png)
+![010](src/images/010.png)
+
+## Adicionando carteirinhas específicas
+
+> Essa funcionalidade permite que sejam adicionados novos layouts de carteirinha por plano.
+
+* Para adicionar um layout de carteirinha específico para um plano, clique no botão **+ Novo layout específico**.
+
+![011](src/images/011.png)
+
+* Preencha os dados e clique em salvar.
+
+![012](src/images/012.png)
+
+* Com isso, o layout cadastrado aparecerá na listagem e será possível editar, excluir e visualizar.
+
+![013](src/images/013.png)
