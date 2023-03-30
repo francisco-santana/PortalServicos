@@ -7,7 +7,7 @@
 3. **[Campos Disponíveis](#campos-disponíveis)**
 4. **[Incluindo campos na carteirinha](#incluindo-campos-na-carteirinha)**
 5. **[Upload de novo layout](#Upload-de-novo-layout)**
-5. **[Adicionando carterinhas específicas](#adicionando-carteirinhas-específicas)**
+6. **[Adicionando carterinhas específicas](#adicionando-carteirinhas-específicas)**
 
 ## Introdução
 
@@ -32,7 +32,7 @@ Os arquivos de layout da carteirinha se encontram no endereço acima. Por padrã
 ## Incluindo campos na carteirinha
 
 > Editor de imagens vetoriais.  
-Obs: Para o desenvolvimente deste manual será usado o Inkscape
+Obs: Para o desenvolvimento deste manual será usado o Inkscape.
 
 * **Inclusão:** Para que o campo seja incluído na carteirinha, é necessário incluir a tag no layout utilizando o editor de imagens vetoriais. Lembrando que a tag deve seguir o padrão apresentado no "@Campos Disponíveis" (Caixa alta).
 
