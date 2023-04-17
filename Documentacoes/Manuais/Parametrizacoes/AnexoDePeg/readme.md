@@ -1,6 +1,6 @@
 <img src="../../src/images/benner_rgb.png" align="right"/>
 
-# Layout de carteirinha
+# Anexo de PEG
 
 1. **[Introdução](#introdução)**
 2. **[Parametrização tipo de documento](#parametrização-tipo-de-documento)**
