@@ -5,10 +5,11 @@
 * **[Alterar Título de Submenu](AlterarTituloSubMenu/readme.md)**
 * **[Anexo de PEG](AnexoDePEG/readme.md)**
 * **[Cadastro de Avisos](CadastroAvisos/readme.md)**
-* **[Cancelamento de Beneficiários AG](CancelamentoBeneficiariosAG/readme.md)**
-* **[Cancelamento de Beneficiários MG](CancelamentoBeneficiariosMG/readme.md)**
+* **[Cancelamento de Beneficiários - AG](CancelamentoBeneficiariosAG/readme.md)**
+* **[Cancelamento de Beneficiários - MG](CancelamentoBeneficiariosMG/readme.md)**
 * **[Customização Portal de Serviços](CustomizacaoPortalDeServicos/readme.md)**
 * **[Extrato de Coparticipação](ExtratoDeCoparticipacao/readme.md)**
+* **[Inclusão de Beneficiários - AG](InclusãoDeBeneficiarioAG/readme.md)**
 * **[Layout de Carteirinha](LayoutCarteirinha/readme.md)**
 * **[Pagamento Pendente de NF](PagamentoPendenteNF/readme.md)**
 * **[Prévia de coparticipação](PreviaDeCoparticipacao/readme.md)**
