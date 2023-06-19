@@ -3,7 +3,7 @@
 # Parametrizações
 
 * **[Alterar Título de Submenu](AlterarTituloSubMenu/readme.md)**
-* **[Anexo de PEG](AnexoDePEG/readme.md)**
+* **[Anexo de PEG](AnexoDePeg/readme.md)**
 * **[Cadastro de Avisos](CadastroAvisos/readme.md)**
 * **[Cancelamento de Beneficiários - AG](CancelamentoBeneficiariosAG/readme.md)**
 * **[Cancelamento de Beneficiários - MG](CancelamentoBeneficiariosMG/readme.md)**
