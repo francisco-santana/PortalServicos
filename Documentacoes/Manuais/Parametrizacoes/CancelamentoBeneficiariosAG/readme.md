@@ -21,7 +21,7 @@ Neste manual será abordado de forma simples as parametrizações necessárias p
 
 ## Mensagem de cancelamento
 
-> Adm > Parâmetros Gerais > Central de atendimento > Aba Solicitação > Texto Legislação Pedido Cancelamento
+> Adm > Parâmetros Gerais > Atendimento >  Aba Central de atendimento > Aba Solicitação > Texto Legislação Pedido Cancelamento
 
 * **Texto Legislação Pedido Cancelamento:** Parametrização para a mensagem que será exibida ao beneficiário no momento em que solicitar um pedido de cancelamento.
 
