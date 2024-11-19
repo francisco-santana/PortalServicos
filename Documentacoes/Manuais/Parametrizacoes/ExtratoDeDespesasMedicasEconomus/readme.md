@@ -51,15 +51,15 @@ Exemplo:
 
 ~~~~json
 {
-    "CodigoRelatorio": "ECO.RV.001-02",
+    "CodigoRelatorio": "C.ECO.RV.001-03",
     "ParametrosRelatorio": {
         "veiodoPortalservicos" : "S",
         "dataInicial": "2024-04-18",
         "dataFinal": "2024-04-18",
-        "listarDependentes": "S",
+        "listarDependentes": true,
         "handleBeneficiario": 134
     },
-    "URIRetornoPortal": "api/portal/DemonstrativoApi/ImportarRelatorioDemonstrativoPagamento"
+    "api/portal/EcoRelatorios/ImportarRelatorioExtratoDespesasMedicas"
 }
 ~~~~
 <br/>
@@ -75,7 +75,7 @@ Para que o usuário tenha acesso ao a funcionalidade, é necessário que a taref
 ![013](src/images/003.png)
 
 
-Os parâmetros utilizados da funcionalidade (tipo de filtro e relatório) estão disponíveis para alteração apenas via Builder.
+Os parâmetros utilizados da funcionalidade (tipo de filtro e relatório) estão disponíveis para alteração apenas via Builder/BD.
 
 Entidade: ECO_PARAMETROS
 
