@@ -3,11 +3,17 @@
 # Guia: Como Criar um Mock Server no Postman
 
 1. **[Definição de Mock Server](#definição-de-mock-server)**
+
 2. **[Criando o Mock Server](#criando-o-mock-server)**
+
     2.1 **[Passo 1: Criar uma "Collection"](#passo-1-criar-uma-collection)**
-    2.2 **[Passo 2: Adicionar requisições e salvar exemplos de respostas](#passo-2-adicionar-requisições-e-salvar-exemplos-de-respostas)** 
+	
+    2.2 **[Passo 2: Adicionar requisições e salvar exemplos de respostas](#passo-2-adicionar-requisições-e-salvar-exemplos-de-respostas)**
+    
     2.3 **[Passo 3: Criar o Mock Server a partir da Collection](#passo-3-criar-o-mock-server-a-partir-da-collection)**
+    
     2.4 **[Passo 4: Testar o Mock Server](#passo-4-testar-o-mock-server)**
+    
 3. **[Fontes](#fontes)**
 
 ## Definição de Mock Server
