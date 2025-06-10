@@ -1,4 +1,4 @@
-<img src="../../src/images/benner_rgb.png" align="right"/>
+<img src="../src/images/benner_rgb.png" align="right"/>
 
 # Guia: Como Criar um Mock Server no Postman
 
