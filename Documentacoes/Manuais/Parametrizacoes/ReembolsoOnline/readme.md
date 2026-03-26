@@ -2,12 +2,12 @@
 
 # Parametrizações - Reembolso on-line
 
-1.  **[Introdução](#introducao)**
-2.  **[Tipo de Reembolso](#tipo-de-reembolso)**
-3.  **[Tipo de reembolso online](#tipo-de-reembolso-on-line)**
-4.  **[Eventos disponíveis para Reembolso de consulta](#eventos-disponiveis-para-reembolso-de-consulta)**
-5.  **[Parametrização geral](#parametrizacao-geral)**
-6.  **[Contratos](#contratos)**
+1.  **[Introdução](#1-introdução)**
+2.  **[Tipo de Reembolso](#2-tipo-de-reembolso)**
+3.  **[Tipo de reembolso online](#3-tipo-de-reembolso-on-line)**
+4.  **[Eventos disponíveis para Reembolso de consulta](#4-eventos-disponíveis-para-reembolso-de-consulta)**
+5.  **[Parametrização geral](#5-parametrização-geral)**
+6.  **[Contratos](#6-contratos)**
 
    
 ## 1. Introdução
@@ -66,7 +66,7 @@ A exibição dos eventos segue o fluxo abaixo:
 
 Nesta etapa é definido qual tipo de reembolso será utilizado na solicitação de reembolso do portal.
 
-**### 4.2. Tipo de Reembolso**
+### 4.2. Tipo de Reembolso
 
 > [AG] > Processamento de Contas > Tabelas > Tipos de Reembolso Selecionar o **Tipo de PEG**
 
